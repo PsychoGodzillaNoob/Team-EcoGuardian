@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 43.22 43.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-8, .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_149);
+        mix-blend-mode: multiply;
+        opacity: .2;
+      }
+
+      .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_101);
+      }
+
+      .cls-5 {
+        mix-blend-mode: soft-light;
+      }
+
+      .cls-6 {
+        fill: #80459a;
+      }
+
+      .cls-7 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_4);
+        mix-blend-mode: screen;
+        opacity: .5;
+      }
+    </style>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_101" data-name="Áåçûìÿííûé ãðàäèåíò 101" x1="21.61" y1="42.16" x2="21.61" y2=".91" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c1bdf1"/>
+      <stop offset="1" stop-color="#fbf9fe"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="14.73" cy="15.28" fx="14.73" fy="15.28" r="16.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b366ff"/>
+      <stop offset="1" stop-color="#8c157b"/>
+    </radialGradient>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_149" data-name="Áåçûìÿííûé ãðàäèåíò 149" x1="4.51" y1="25.47" x2="39.12" y2="25.47" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c77cbd"/>
+      <stop offset="1" stop-color="#974577"/>
+    </linearGradient>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_4" data-name="Áåçûìÿííûé ãðàäèåíò 4" x1="6.25" y1="14.05" x2="32.48" y2="14.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff5942"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-9">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="space_background" data-name="space background">
+        <g id="incompleted-level-bg">
+          <path class="cls-4" d="M42.31,22.3c0,11.81-9.23,19.87-20.66,19.87S.91,34.11,.91,22.3,10.18,.91,21.61,.91s20.7,9.58,20.7,21.39Z"/>
+          <path class="cls-8" d="M21.61,.91c11.43,0,20.7,9.58,20.7,21.39s-9.23,19.87-20.66,19.87S.91,34.11,.91,22.3,10.18,.91,21.61,.91h0Zm0-.91C9.69,0,0,10,0,22.3s9.31,20.78,21.65,20.78,21.57-8.93,21.57-20.78S33.53,0,21.61,0h0Z"/>
+          <path class="cls-6" d="M40.17,22c0,10.12-8.27,16.37-18.52,16.37S3.05,32.13,3.05,22,11.36,3.68,21.61,3.68s18.56,8.2,18.56,18.33Z"/>
+          <path class="cls-1" d="M24.91,36.91c-9.39,1.93-18.2-2.23-20.1-11.5-.14-.7-.24-1.41-.3-2.1h0C3.84,14.81,9.68,6.92,18.35,5.14c7.6-1.56,15.06,2.05,18.62,8.4,0,0,0,0,0,.02,.83,1.49,1.45,3.12,1.81,4.87,1.91,9.27-4.5,16.55-13.88,18.48Z"/>
+          <path class="cls-3" d="M24.91,36.91c-9.39,1.93-18.2-2.23-20.1-11.5-.14-.7-.24-1.41-.3-2.1,.37,.79,.94,5.27,5.67,7.4,8.84,3.98,21.13-.03,25.28-5.63,4.01-5.45,1.61-11.24,1.52-11.52,.83,1.49,1.45,3.12,1.81,4.87,1.91,9.27-4.5,16.55-13.88,18.48Z"/>
+          <path class="cls-2" d="M11.86,14.14c0,.95-.77,1.71-1.71,1.71s-1.71-.77-1.71-1.71,.77-1.71,1.71-1.71,1.71,.77,1.71,1.71Z"/>
+          <path class="cls-5" d="M34.45,31.36c-1.96,1.78-4.06,2.66-4.7,1.96-.64-.7,.44-2.71,2.4-4.49,1.96-1.78,4.06-2.66,4.7-1.96,.64,.7-.44,2.71-2.4,4.49Z"/>
+          <path class="cls-7" d="M6.3,21.54s6.5,3.28,9.43-5.68c3-9.17,13.7-8.77,16.75-6.61,0,0-6.09-5.56-16.46-2.16-11.03,3.62-9.73,14.46-9.73,14.46Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

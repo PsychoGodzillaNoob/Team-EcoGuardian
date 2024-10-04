@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 275.13 137.26">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        opacity: .3;
+      }
+
+      .cls-3 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_462);
+        mix-blend-mode: screen;
+      }
+    </style>
+    <radialGradient id="_Áåçûìÿííûé_ãðàäèåíò_462" data-name="Áåçûìÿííûé ãðàäèåíò 462" cx="-1377.82" cy="514.68" fx="-1377.82" fy="514.68" r="44.02" gradientTransform="translate(1853.56 1498.24) rotate(90) scale(1.04 3.33)" gradientUnits="userSpaceOnUse">
+      <stop offset=".94" stop-color="#000"/>
+      <stop offset=".95" stop-color="#000405"/>
+      <stop offset=".96" stop-color="#001216"/>
+      <stop offset=".97" stop-color="#002831"/>
+      <stop offset=".98" stop-color="#004758"/>
+      <stop offset=".99" stop-color="#006f88"/>
+      <stop offset="1" stop-color="#008bab"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-1">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="space_background" data-name="space background">
+        <g class="cls-2">
+          <ellipse class="cls-3" cx="137.56" cy="68.63" rx="146.78" ry="45.68" transform="translate(-15.59 55.31) rotate(-21.54)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+==================== user ===========================
+1. INSERT INTO `user` (`user_id`, `username`, `total_hp`, `level_progress`, `status`) VALUES (NULL, 'NightHowler', '100', '3', '1'); //Inser user
+2. UPDATE `user` SET `username` = 'NightHowler',`total_hp` = 90 WHERE `user`.`user_id` = 1; //Update User
+3. DELETE FROM user WHERE `user`.`user_id` = 3; //Delete User
+
+==================== Table name ===========================
+1.
+2.
+3.
