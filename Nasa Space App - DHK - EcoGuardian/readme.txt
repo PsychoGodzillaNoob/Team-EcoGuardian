@@ -1,12 +1,10 @@
 <?php
 // =============================================================================
 // =============================================================================
-// File Name: Configuration.PsGod.php
-// Description: Storing all Configuration related variable and Data
+// File Name: Readme.PsGod.txt
+// Description: About Game Information
 // Programmer: "PsychoGodzilla", "NightHowler"
-// Powered By: Team EcoGuardians
+// Powered By: Team EcoGuardian
 // =============================================================================
 // =============================================================================
 
-?php echo $settings[6]; ?>
-if($MODE && $MODE == 'ON')
